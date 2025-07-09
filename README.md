@@ -64,13 +64,4 @@
 <!-- You can add a project link here in the future -->
 <!-- 🔗 [View Project](https://meetsvirtual.example.com) -->
 
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hirenvaidya&show_icons=true&locale=en&layout=compact" alt="hirenvaidya" />
-</p>
-
----
-
 <h3 align="center">☁️ Think Big, Build in the Cloud ☁️</h3>
