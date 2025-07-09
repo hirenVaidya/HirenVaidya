@@ -48,7 +48,7 @@
 ### 🎮 Innovation Meets Cloud: MeetsVirtual
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400" alt="Metaverse VR Cloud"/>
+  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="400" alt="VR Experience"/>
 </p>
 
 **MeetsVirtual** is a futuristic VR/metaverse platform I'm building to reshape how people **communicate, collaborate, and interact** in a virtual world.
