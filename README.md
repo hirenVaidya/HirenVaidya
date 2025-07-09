@@ -45,13 +45,25 @@
 
 ---
 
-### 🎮 Gaming Meets Cloud
+### 🎮 Innovation Meets Cloud: MeetsVirtual
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tuZGFzbWI5aTNrNTNqM2h6bnl2NzB5NzNvczJ2cnR6aTFlMDF2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnC8TVgYgP0cS5e/giphy.gif" width="400" alt="Cloud Quiz Game GIF" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400" alt="Metaverse VR Cloud"/>
 </p>
 
----
+**MeetsVirtual** is a futuristic VR/metaverse platform I'm building to reshape how people **communicate, collaborate, and interact** in a virtual world.
+
+🔹 Features:
+- 🧑‍💼 Virtual meeting rooms for remote collaboration  
+- 🎨 Immersive art & entertainment spaces  
+- ☁️ Cloud-integrated infrastructure for real-time performance  
+- 🌐 Built using **Unity**, **C#**, and **Cloud hosting services**
+
+> 🚀 Aiming to blend **cloud technology** with **virtual reality** for the future of remote presence.
+
+<!-- You can add a project link here in the future -->
+<!-- 🔗 [View Project](https://meetsvirtual.example.com) -->
+
 
 ### 📊 GitHub Stats
 
